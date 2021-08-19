@@ -83,8 +83,8 @@ const Timeline = () => {
           <ul className="description">
             <li>
               Made over 40+ informative e-learning videos in a variety of
-              subjects that enabled students to have a positive and immersive
-              learning experience.
+              subjects that enabled students a positive and immersive learning
+              experience.
             </li>
             <li>
               Held an event with 40+ attendees through a Zoom meeting that
@@ -93,7 +93,7 @@ const Timeline = () => {
             </li>
             <li>
               Managed and created engaging social media content that increased
-              student engagement by 25%.
+              student engagement by 18%.
             </li>
           </ul>
         </p1>

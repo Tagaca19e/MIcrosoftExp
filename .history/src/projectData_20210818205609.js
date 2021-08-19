@@ -22,7 +22,7 @@ const projects = [
     image: "./images/type",
     description:
       "A simple and fun game to improve your typing skills, made mainly with Javascript and Css that covers the concepts of creating timers, calling APIs, and hooking up DOM events.",
-    tools: ["#JavaScript", "#MaterialUI", "#REST APIs"],
+    tools: ["#JavaScript", "#MaterialUI", "#RestAPIs"],
     github: "https://github.com/Tagaca19e/Type-it",
     link: "https://tagaca19e.github.io/Type-it/",
   },

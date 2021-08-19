@@ -74,26 +74,22 @@ const Timeline = () => {
         // icon={<WorkIcon />}
       >
         <h2 className="vertical-timeline-element-title">
-          Video Specialist - Cal State University, Bakersfield
+          Microsoft Learn Student Ambassador - Microsoft
         </h2>
         <h2 className="vertical-timeline-element-subtitle">
-          Nov 2020 - Current
+          Jan 2021 - Current
         </h2>
         <p1>
           <ul className="description">
             <li>
               Made over 40+ informative e-learning videos in a variety of
-              subjects that enabled students to have a positive and immersive
-              learning experience.
+              subjects that enabled students a positive and immersive learning
+              experience.
             </li>
             <li>
               Held an event with 40+ attendees through a Zoom meeting that
               catered to students' needs in navigating the school's website and
               portal.
-            </li>
-            <li>
-              Managed and created engaging social media content that increased
-              student engagement by 25%.
             </li>
           </ul>
         </p1>

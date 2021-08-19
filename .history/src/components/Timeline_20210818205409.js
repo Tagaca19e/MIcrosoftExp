@@ -93,7 +93,7 @@ const Timeline = () => {
             </li>
             <li>
               Managed and created engaging social media content that increased
-              student engagement by 25%.
+              student engagement by 18%.
             </li>
           </ul>
         </p1>
