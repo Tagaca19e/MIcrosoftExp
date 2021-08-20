@@ -2,7 +2,7 @@ import React from "react";
 import "./contact.css";
 import linkedin from "./images/icons/linkedin.svg";
 import github from "./images/icons/github.svg";
-import emailjs, { init } from "emailjs-com";
+import emailjs from "emailjs";
 
 const Contact = () => {
   function sendEmail(e) {
